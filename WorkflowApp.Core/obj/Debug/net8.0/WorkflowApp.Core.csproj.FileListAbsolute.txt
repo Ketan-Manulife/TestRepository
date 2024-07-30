@@ -1,0 +1,11 @@
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Core\bin\Debug\net8.0\WorkflowApp.Core.deps.json
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Core\bin\Debug\net8.0\WorkflowApp.Core.dll
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Core\bin\Debug\net8.0\WorkflowApp.Core.pdb
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Core\obj\Debug\net8.0\WorkflowApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Core\obj\Debug\net8.0\WorkflowApp.Core.AssemblyInfoInputs.cache
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Core\obj\Debug\net8.0\WorkflowApp.Core.AssemblyInfo.cs
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Core\obj\Debug\net8.0\WorkflowApp.Core.csproj.CoreCompileInputs.cache
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Core\obj\Debug\net8.0\WorkflowApp.Core.dll
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Core\obj\Debug\net8.0\refint\WorkflowApp.Core.dll
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Core\obj\Debug\net8.0\WorkflowApp.Core.pdb
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Core\obj\Debug\net8.0\ref\WorkflowApp.Core.dll

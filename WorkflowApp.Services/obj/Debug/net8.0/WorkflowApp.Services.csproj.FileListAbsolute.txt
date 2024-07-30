@@ -1,0 +1,15 @@
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\bin\Debug\net8.0\WorkflowApp.Services.deps.json
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\bin\Debug\net8.0\WorkflowApp.Services.dll
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\bin\Debug\net8.0\WorkflowApp.Services.pdb
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\bin\Debug\net8.0\WorkflowApp.Core.dll
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\bin\Debug\net8.0\WorkflowApp.Core.pdb
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\obj\Debug\net8.0\WorkflowApp.Services.csproj.AssemblyReference.cache
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\obj\Debug\net8.0\WorkflowApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\obj\Debug\net8.0\WorkflowApp.Services.AssemblyInfoInputs.cache
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\obj\Debug\net8.0\WorkflowApp.Services.AssemblyInfo.cs
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\obj\Debug\net8.0\WorkflowApp.Services.csproj.CoreCompileInputs.cache
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\obj\Debug\net8.0\Workflow.7BE331C3.Up2Date
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\obj\Debug\net8.0\WorkflowApp.Services.dll
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\obj\Debug\net8.0\refint\WorkflowApp.Services.dll
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\obj\Debug\net8.0\WorkflowApp.Services.pdb
+C:\R_And_D Project\WorkflowSolution\WorkflowApp.Services\obj\Debug\net8.0\ref\WorkflowApp.Services.dll
